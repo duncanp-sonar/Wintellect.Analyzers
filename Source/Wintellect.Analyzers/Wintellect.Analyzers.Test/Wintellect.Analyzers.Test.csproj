@@ -108,6 +108,7 @@
     <Compile Include="CallAssertMethodsWithMessageUnitTests.cs" />
     <Compile Include="CatchBlockShouldRethrowUnitTests.cs" />
     <Compile Include="ClassesShouldBeSealedUnitTests.cs" />
+    <Compile Include="Custom\TypeNamingRuleUnitTests.cs" />
     <Compile Include="ExceptionDocumentationMissingUnitTests.cs" />
     <Compile Include="IfAndElseMustHaveBracesUnitTests.cs" />
     <Compile Include="SuppressionMessageMissingJustificationUnitTests.cs" />
